@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naveed Abbas
 - 👀 I’m interested in c++ coding and web development and linux 
-- 🌱 I’m currently learning linux and c++ coding
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on linux and web development
 - 📫 you can reach me by naveed124777@gmail.com
 - 😄 Pronouns: ...
